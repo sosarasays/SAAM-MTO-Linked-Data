@@ -1,2 +1,2 @@
 # SAAM-MTO-Linked-Data
-Welcome to the Smithsonian American Art Museum Linked Data Presence
+This is where the Smithsonian American Art Museum's Media and Technology Office shares open museum-related data for free reuse by colleauges and by the public. 
